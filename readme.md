@@ -16,6 +16,6 @@ Malheureusement, PHPSimul s’est endormi avec la **version 1.3** qui contenait 
 
 Le dossier "phpsimul-1-3" de ce github contient PHPSimul tel que je ne l'ai retrouvé sur le net en version zippé pour tout télécharger d'un coup, et en version dézippée, si vous souhaitez juste explorer les fichiers.
 
-J'ai ajouter un templates "phpsimul_design.rar" afin de rendre le jeu un peu plus propre ;) 
+J'ai ajouter un template "phpsimul_design.rar" afin de rendre le jeu un peu plus propre ;) 
 
 J’ai oublié de vous préciser que **PHPSimul est Open Source**, ce qui signifie qu'il est gratuit, et que vous pouvez le modifier autant que vous le souhaitez. 
